@@ -1,0 +1,20 @@
+cd in a directory
+    use quotes for anything with spaces in it
+    .. parent directory
+    . current directory
+ls
+    -al hidden files 
+    -1 makes one line 
+    -l makes long information
+script records a session
+man for explanation of command, example, man ls
+pwd shows working directory
+mkdir makes directory
+rmdir removes directory
+tab completes a name for you
+mv move and renames
+cp copy
+less reads a file one name at a time
+apropos give a key word and it will return commands which match
+.bashrc runs a shell script everytime we open a shell
+esc :q! quits :w writes i to insert 
